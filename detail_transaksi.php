@@ -75,7 +75,7 @@ $result_detail = $conn->query($sql_detail);
 </div>
 <div class="text-center">
         <button onclick="window.print()" class="btn btn-primary">Cetak Struk</button>
-        <a href="history.php.php" class="btn btn-secondary">Kembali ke History</a>
+        <a href="history.php" class="btn btn-secondary">Kembali ke History</a>
     </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 </body>
